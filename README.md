@@ -1,4 +1,5 @@
-cppSerial
+### discription
+boost::asioを用いたc++シリアル通信用ライブラリ
 
 ### example
 
